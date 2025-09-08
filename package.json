@@ -1,0 +1,14 @@
+{
+  "name": "pokemon-api-example",
+  "version": "1.0.0",
+  "description": "Example of using Callback, Promise, and Async/Await with the PokeAPI",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^1.11.0"
+  },
+  "author": "Joel Abhishek Dasari",
+  "license": "MIT"
+}
